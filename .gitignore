@@ -4,5 +4,4 @@
 /gobgp
 _output
 _cache
-vendor
 .*.sw?
